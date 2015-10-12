@@ -20,39 +20,39 @@ After the meeting I had to think of a new idea, and
 
 * Idea Formulation
 
-        What I want to specialize in is front end development for interactive web applications, and need to find a way to work this into my project. 
+..* What I want to specialize in is front end development for interactive web applications, and need to find a way to work this into my project. 
 
         
-        In researching the best packages for creating single page applications, I decided on AngularJS.
+..* In researching the best packages for creating single page applications, I decided on AngularJS.
 
         
-        In researching various frameworks for CSS and responsive pages/applications, I am currently stuck between Bootstrap and Bourbon Neat.
+..* In researching various frameworks for CSS and responsive pages/applications, I am currently stuck between Bootstrap and Bourbon Neat.
 
 
-        __Bootstrap__
-        * Advantages:
-            ..* Industry standard
-            ..* Plenty of learning resources available
-        *Disadvantages:
-        ..*Gratuitous use of class names means the page markup can be bloated and difficult to read.
-        
-        __Bourbon Neat__
-        *Advantages:
-            ..* Uses SASS natively
-            ..* SASS based grid system makes use of mixing rather than classnames
-            ..*Geared more towards semantic and clean markup
-        *advantages:
-            ..* Not nearly as many learning resources available
-            ..* Emailed facilitator with new idea.
+__Bootstrap__
+* Advantages:
+    ..* Industry standard
+    ..* Plenty of learning resources available
+*Disadvantages:
+..*Gratuitous use of class names means the page markup can be bloated and difficult to read.
 
- 
+__Bourbon Neat__
+*Advantages:
+    ..* Uses SASS natively
+    ..* SASS based grid system makes use of mixing rather than classnames
+    ..*Geared more towards semantic and clean markup
+*advantages:
+    ..* Not nearly as many learning resources available
+    ..* Emailed facilitator with new idea.
 
-    - Further Research
-        - I read more in depth  
 
- 
 
-    - Learning contract draft
+- Further Research
+- I read more in depth  
+
+
+
+- Learning contract draft
 
  
  
