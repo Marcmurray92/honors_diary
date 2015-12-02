@@ -34,7 +34,7 @@ __Bootstrap__
   * Industry standard
   * Plenty of learning resources available
   
-*Disadvantages:
+* Disadvantages:
   * Gratuitous use of class names means the page markup can be bloated and difficult to read.
 
 __Bourbon Neat__
