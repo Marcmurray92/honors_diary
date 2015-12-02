@@ -38,12 +38,12 @@ __Bootstrap__
 
 __Bourbon Neat__
 *Advantages:
-      * Uses SASS natively
-      * SASS based grid system makes use of mixing rather than classnames
-      *Geared more towards semantic and clean markup
+  * Uses SASS natively
+  * SASS based grid system makes use of mixing rather than classnames
+  * Geared more towards semantic and clean markup
 *Disadvantages:
-      * Not nearly as many learning resources available
-      * Emailed facilitator with new idea.
+  * Not nearly as many learning resources available
+  * Emailed facilitator with new idea.
 
 
 
