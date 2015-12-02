@@ -33,6 +33,7 @@ __Bootstrap__
 * Advantages:
   * Industry standard
   * Plenty of learning resources available
+  
 *Disadvantages:
   * Gratuitous use of class names means the page markup can be bloated and difficult to read.
 
@@ -41,6 +42,7 @@ __Bourbon Neat__
   * Uses SASS natively
   * SASS based grid system makes use of mixing rather than classnames
   * Geared more towards semantic and clean markup
+  
 *Disadvantages:
   * Not nearly as many learning resources available
   * Emailed facilitator with new idea.
