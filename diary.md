@@ -23,10 +23,10 @@ After the meeting I had to think of a new idea, and
 * What I want to specialize in is front end development for interactive web applications, and need to find a way to work this into my project. 
 
         
-..* In researching the best packages for creating single page applications, I decided on AngularJS.
+  * In researching the best packages for creating single page applications, I decided on AngularJS.
 
         
-..* In researching various frameworks for CSS and responsive pages/applications, I am currently stuck between Bootstrap and Bourbon Neat.
+  * In researching various frameworks for CSS and responsive pages/applications, I am currently stuck between Bootstrap and Bourbon Neat.
 
 
 __Bootstrap__
