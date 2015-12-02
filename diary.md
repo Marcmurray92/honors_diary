@@ -31,10 +31,10 @@ After the meeting I had to think of a new idea, and
 
 __Bootstrap__
 * Advantages:
-    * Industry standard
-    * Plenty of learning resources available
+  * Industry standard
+  * Plenty of learning resources available
 *Disadvantages:
-  *Gratuitous use of class names means the page markup can be bloated and difficult to read.
+  * Gratuitous use of class names means the page markup can be bloated and difficult to read.
 
 __Bourbon Neat__
 * Advantages:
